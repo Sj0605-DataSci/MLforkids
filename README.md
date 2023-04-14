@@ -40,3 +40,6 @@ Imagine you have a basket of different colored fruits, and you want to know if a
 
 Imagine you're playing a game where you have to draw a line to separate different colors of balls. You want to draw the line so that it's as far away from the closest balls of each color as possible. An SVM works similarly by finding the best line to separate different groups of data.
 
+## Types of Algorithm 
+![DS](https://user-images.githubusercontent.com/73551845/232012458-e0f79fca-f5ac-4dff-ba4b-034239d2b8d4.jpeg)
+
